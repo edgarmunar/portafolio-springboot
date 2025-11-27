@@ -7,16 +7,21 @@ Bienvenido a la colección de proyectos prácticos que demuestran el uso de dive
 
 A continuación, se enumeran los proyectos disponibles, junto con una breve descripción de cada uno y el enlace a su repositorio correspondiente.
 
-### 1. [Proyecto de MVC con Thymeleaf](https://github.com/edgarmunar/spring-boot-web) 
+
+###  [Bank Inc - API de Gestión de Tarjetas y Transacciones](https://github.com/edgarmunar/springboot-bankinc) 
+**Descripción:** Este proyecto es un API-REST para administrar tarjetas y transacciones, teniendo en cuenta el uso de frameworks de desarrollo (Spring Boot, Hibernate/JPA o Jakarta EE), consumo e implementación de APIs REST, Maven para gestión de dependencias, gestión de bases de datos relacionales MySQL, JUnit / Mockito para pruebas unitarias,, Postman / Swagger para validación de servicios y versionamiento de código con Git.  .
+
+
+###  [Proyecto de MVC con Thymeleaf](https://github.com/edgarmunar/spring-boot-web) 
 **Descripción:** Este proyecto muestra cómo usar Thymeleaf con Spring Boot en una aplicación basada en la arquitectura MVC (Modelo-Vista-Controlador). El objetivo es demostrar la integración de Thymeleaf para gestionar vistas de manera sencilla y dinámica.
 
-### 2. [Proyecto con Ejemplos inyección de dependencias](https://github.com/edgarmunar/spring-boot-di-1)
+###  [Proyecto con Ejemplos inyección de dependencias](https://github.com/edgarmunar/spring-boot-di-1)
 **Descripción:** Este proyecto de Spring Boot muestra ejemplos prácticos de inyección de dependencias, incluyendo inyección por constructor, setter y campo, así como el uso de anotaciones. Ideal para aprender y entender cómo gestionar dependencias en aplicaciones Spring Boot.
 
-### 3. [Ejemplo de Backend con Operaciones CRUD en Spring Boot](https://github.com/edgarmunar/spring-boot-backend-apirest)
+###  [Ejemplo de Backend con Operaciones CRUD en Spring Boot](https://github.com/edgarmunar/spring-boot-backend-apirest)
 **Descripción:**Este proyecto de Spring Boot muestra cómo implementar operaciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar) en una API RESTful. Incluye ejemplos de configuración, endpoints RESTful y manejo de datos.
 
-### 3. [Aplicación Angular con Backend Spring Boot](https://github.com/edgarmunar/spring-boot-backend-apirest)
+###  [Aplicación Angular con Backend Spring Boot](https://github.com/edgarmunar/spring-boot-backend-apirest)
 **Descripción:**Aplicación web construida con Angular que se conecta a un backend en Spring Boot. Muestra cómo la interfaz de usuario en Angular interactúa con una API RESTful para realizar operaciones CRUD y manejar datos. Se relaciona con el proyecto backend del punto anterior
 
 
