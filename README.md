@@ -21,7 +21,7 @@ A continuación, se enumeran los proyectos disponibles, junto con una breve desc
 ###  [Ejemplo de Backend con Operaciones CRUD en Spring Boot](https://github.com/edgarmunar/spring-boot-backend-apirest)
 **Descripción:**Este proyecto de Spring Boot muestra cómo implementar operaciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar) en una API RESTful. Incluye ejemplos de configuración, endpoints RESTful y manejo de datos.
 
-###  [Aplicación Angular con Backend Spring Boot](https://github.com/edgarmunar/spring-boot-backend-apirest)
+###  [Aplicación Angular con Backend Spring Boot](https://github.com/edgarmunar/cliente-app)
 **Descripción:**Aplicación web construida con Angular que se conecta a un backend en Spring Boot. Muestra cómo la interfaz de usuario en Angular interactúa con una API RESTful para realizar operaciones CRUD y manejar datos. Se relaciona con el proyecto backend del punto anterior
 
 
