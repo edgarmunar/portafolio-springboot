@@ -8,8 +8,8 @@ Bienvenido a la colección de proyectos prácticos que demuestran el uso de dive
 A continuación, se enumeran los proyectos disponibles, junto con una breve descripción de cada uno y el enlace a su repositorio correspondiente.
 
 
-###  [Bank Inc - API de Gestión de Tarjetas y Transacciones](https://github.com/edgarmunar/springboot-bankinc) 
-**Descripción:** Este proyecto es un API-REST para administrar tarjetas y transacciones, teniendo en cuenta el uso de frameworks de desarrollo (Spring Boot, Hibernate/JPA o Jakarta EE), consumo e implementación de APIs REST, Maven para gestión de dependencias, gestión de bases de datos relacionales MySQL, JUnit / Mockito para pruebas unitarias,, Postman / Swagger para validación de servicios y versionamiento de código con Git.  
+###  [Bank Inc - API de Gestión de Tarjetas y Transacciones + Dockerizacion 4 arquitecturas](https://github.com/edgarmunar/springboot-bankinc) 
+**Descripción:** Este proyecto es un API-REST para administrar tarjetas y transacciones, teniendo en cuenta el uso de frameworks de desarrollo (Spring Boot, Hibernate/JPA o Jakarta EE), consumo e implementación de APIs REST, Maven para gestión de dependencias, gestión de bases de datos relacionales MySQL, JUnit / Mockito para pruebas unitarias,, Postman / Swagger para validación de servicios y versionamiento de código con Git  + Dockerización del app con 4 ejemplos de arquitecturas para implementarlo  
 
 ###  [Ecommerce Basic](https://github.com/edgarmunar/ecommercebasic) 
 **Descripción:** Este es un proyecto sencillo de e-commerce con una arquitectura monolitica modular, donde vamos a tener 2 servicios principales  = Catalogo de productos - Gestión de Pedidos. 
